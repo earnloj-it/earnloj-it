@@ -18,6 +18,12 @@ I design end-to-end business systems and build them with AI. I map how people ac
 - AI vision (Gemini) reads fuel bills, delivery slips and concrete tickets, and rejects bad photos with a reason
 - Dashboards for accounting, QS, store and management
 
+**🏭 Company website demo: PIKUL Precision Parts** — [live site →](https://earnloj-it.github.io/pikul-precision-demo/) · [code](https://github.com/earnloj-it/pikul-precision-demo)
+
+- Multi-page site for a fictional CNC and sheet-metal manufacturer, with a Thai / English switch
+- A quick quote on the home page carries over to the full quote form, which has drawing upload
+- Mobile-ready and accessible; plain HTML/CSS/JS on GitHub Pages
+
 ### How I work with AI
 
 | I own | AI (Claude) does |
