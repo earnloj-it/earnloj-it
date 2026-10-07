@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/info-card.svg" width="860" alt="Thanawut Suka: AI Automation Engineer and System Designer. 1,643 ERP documents created from LINE, 42 users, 25 projects, 19,240 budget lines guarded.">
+</div>
+
 # Hi, I'm Thanawut Suka 👋
 
 **AI Automation Engineer · System Designer**
