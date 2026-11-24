@@ -22,6 +22,13 @@ I design end-to-end business systems and build them with AI. I map how people ac
 - AI vision (Gemini) reads fuel bills, delivery slips and concrete tickets, and rejects bad photos with a reason
 - Dashboards for accounting, QS, store and management
 
+**🗂️ All-in-one back office for a construction company** — [case study →](https://earnloj-it.github.io/adms-backoffice-case-study/) · [repo](https://github.com/earnloj-it/adms-backoffice-case-study)
+
+- Attendance from fingerprint devices on every site, pushed straight to the server
+- Daily-wage payroll for workers who move between sites, with deductions and period locking
+- Worker and camp records, assets and store, vehicles, and management dashboards
+- About 30,500 lines of PHP, 80 tables and 680 automated tests (Laravel 12)
+
 **🏭 Company website demo: PIKUL Precision Parts** — [live site →](https://earnloj-it.github.io/pikul-precision-demo/) · [code](https://github.com/earnloj-it/pikul-precision-demo)
 
 - Multi-page site for a fictional CNC and sheet-metal manufacturer, with a Thai / English switch
