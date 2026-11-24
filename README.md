@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./assets/info-card.svg" width="860" alt="Thanawut Suka: AI Automation Engineer and System Designer. 1,643 ERP documents created from LINE, 42 users, 25 projects, 19,240 budget lines guarded.">
+  <img src="./assets/info-card.svg" width="860" alt="Thanawut Sukha: AI Automation Engineer and System Designer. 1,643 ERP documents created from LINE, 42 users, 25 projects, 19,240 budget lines guarded.">
 </div>
 
-# Hi, I'm Thanawut Suka 👋
+# Hi, I'm Thanawut Sukha 👋
 
 **AI Automation Engineer · System Designer**
 
@@ -49,4 +49,4 @@ I design end-to-end business systems and build them with AI. I map how people ac
 
 ---
 
-📫 thanawut_s@kkumail.com
+📫 Thanawus_s@kkumail.com
