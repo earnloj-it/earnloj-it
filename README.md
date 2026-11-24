@@ -29,12 +29,12 @@ I design end-to-end business systems and build them with AI. I map how people ac
 - Worker and camp records, assets and store, vehicles, and management dashboards
 - About 30,500 lines of PHP, 80 tables and 680 automated tests (Laravel 12)
 
-**🎙️ LiviaTran: open-source live translator for Windows** — [repo](https://github.com/earnloj-it/liviatran) · [download](https://github.com/earnloj-it/liviatran/releases)
+**🎙️ LiviaTran: live translator for Windows** — [showcase →](https://github.com/earnloj-it/liviatran)
 
 - Listens to a meeting, transcribes and translates it as people speak, then writes the meeting notes
 - Floating always-on-top caption window for Zoom, Teams or Meet, with speaker labels
 - Runs on your own AI keys (Claude, Gemini, OpenAI, Groq or a local Ollama), with no account or server in between
-- Desktop app in Rust (egui) with its own installer, MIT licensed
+- Desktop app in Rust (egui) with its own installer
 
 **🏭 Company website demo: PIKUL Precision Parts** — [live site →](https://earnloj-it.github.io/pikul-precision-demo/) · [code](https://github.com/earnloj-it/pikul-precision-demo)
 
