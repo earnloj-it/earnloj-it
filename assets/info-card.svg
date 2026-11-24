@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" role="img" aria-labelledby="t d">
-  <title id="t">Thanawut Sukha — AI Automation Engineer · System Designer</title>
+  <title id="t">Thanawut Suka — AI Automation Engineer · System Designer</title>
   <desc id="d">Terminal-style info card: role, stack, AI tools, and production results (1,643 ERP documents from LINE, 42 users, 25 projects, 19,240 budget lines).</desc>
   <style>
     .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
@@ -75,7 +75,7 @@
   <g class="mono info">
     <text class="ln" style="animation-delay:1.3s" x="300" y="110"><tspan class="host">thanawut</tspan><tspan class="v">@</tspan><tspan class="host">earnloj-it</tspan></text>
     <text class="ln dim" style="animation-delay:1.38s" x="300" y="128">------------------------------------------</text>
-    <text class="ln" style="animation-delay:1.46s" x="300" y="152" xml:space="preserve"><tspan class="k">Name</tspan><tspan class="v">:      Thanawut Sukha</tspan></text>
+    <text class="ln" style="animation-delay:1.46s" x="300" y="152" xml:space="preserve"><tspan class="k">Name</tspan><tspan class="v">:      Thanawut Suka</tspan></text>
     <text class="ln" style="animation-delay:1.54s" x="300" y="174" xml:space="preserve"><tspan class="k">Role</tspan><tspan class="v">:      AI Automation Engineer · System Designer</tspan></text>
     <text class="ln" style="animation-delay:1.62s" x="300" y="196" xml:space="preserve"><tspan class="k">Focus</tspan><tspan class="v">:     Business systems built with AI</tspan></text>
     <text class="ln" style="animation-delay:1.70s" x="300" y="218" xml:space="preserve"><tspan class="k">AI</tspan><tspan class="v">:        Claude Code · Gemini Vision</tspan></text>
