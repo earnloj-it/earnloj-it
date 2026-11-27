@@ -29,6 +29,12 @@ I design end-to-end business systems and build them with AI. I map how people ac
 - Worker and camp records, assets and store, vehicles, and management dashboards
 - About 30,500 lines of PHP, 80 tables and 680 automated tests (Laravel 12)
 
+**🖐️ HR automations: attendance to LINE and document OCR** — [case study →](https://earnloj-it.github.io/hr-automation-case-study/) · [repo](https://github.com/earnloj-it/hr-automation-case-study)
+
+- Every morning, fingerprint scan times, leave and shifts are pulled from the cloud HR system and sent to the HR LINE group as one summary of who is late, on leave or absent
+- AI OCR reads worker and vehicle documents from the office NAS and tracks about 190 workers, 17 vehicles and 950+ documents
+- LINE alerts 30 and 7 days before a passport, permit, vehicle tax or insurance expires, with a dashboard where HR checks what the AI read
+
 **🎙️ LiviaTran: live translator for Windows** — [showcase →](https://github.com/earnloj-it/liviatran)
 
 - Listens to a meeting, transcribes and translates it as people speak, then writes the meeting notes
